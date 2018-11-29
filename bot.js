@@ -7,7 +7,7 @@ client.on('ready', () => {
 });
 
 client.on('ready', () => {
-  client.user.setGame(`مرهبا امزح امزح`,'https://www.twitch.tv/By:A7MD');
+  client.user.setGame(`ان لم تلقى حاقدا فاعلم انك فاشل`,'https://www.twitch.tv/By:A7MD');
 });
 
 client.login(process.env.BOT_TOKEN);
